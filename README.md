@@ -13,7 +13,7 @@ Personally, I only had time to prepare using Blind 75 for this internship season
 
 
 Title | Description | Link
------------- | ------------- | -------------
+---- | ---- | -------------
 Leetcode Patterns | A compiled list of leetcode questions categorised by question patterns and companies | https://seanprashad.com/leetcode-patterns/
 Leetcode Problems by Popularity | List of questions arranged by popularity | https://suyash.dev/blog/leetcode-by-popularity
 Blind 75 | 75 questions that is distributed over common patterns | https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions
